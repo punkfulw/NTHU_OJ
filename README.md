@@ -7,4 +7,4 @@ My C++ Code for NTHU OJ.
  
 \# | Title | Difficulty | Solution 
 ---|---|---|---
-1 | Two Sum | Easy | [Solution](NTHU/1.%20Two%20Sum)
+13250 | Incense Sticks | Easy | [Solution](NTHU/13250.%20Incense%20Sticks)
