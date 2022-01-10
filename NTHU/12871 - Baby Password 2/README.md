@@ -5,7 +5,7 @@
 
 
 ```c
-// OJ: https://acm.cs.nthu.edu.tw/problem/13250/
+// OJ: https://acm.cs.nthu.edu.tw/problem/12871/
 // Author: github.com/punkfulw
 // Time: O(1)
 // Space: O(1)
