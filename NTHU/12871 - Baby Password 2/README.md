@@ -16,7 +16,7 @@
 
 
 int main(){
-	char c;
+    char c;
     int shift;
     scanf("%c%d", &c, &shift);
     if (isupper(c))
